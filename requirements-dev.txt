@@ -1,0 +1,4 @@
+# CPU-only environment for the unit tests and linting (no vLLM, no GPU).
+numpy>=1.26,<2.3
+torch>=2.4
+ruff==0.14.11

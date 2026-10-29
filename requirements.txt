@@ -1,0 +1,11 @@
+# Runtime environment of the paper's runs (vLLM 0.19.0, torch 2.10.0+cu128, H100).
+# vLLM 0.19 ships a CUDA 12.8 wheel; newer vLLM bundles CUDA 13 and needs a newer driver.
+# Install with uv so that the matching torch/CUDA wheels are resolved:
+#   uv pip install -r requirements.txt
+vllm==0.19.0
+transformers==4.57.6
+# numpy < 2.3 for vLLM's Numba; datasets 3.x because 4+ needs huggingface-hub >= 1.0,
+# which this transformers rejects.
+numpy>=1.26,<2.3
+datasets>=3.6,<4
+huggingface-hub>=0.34,<1.0

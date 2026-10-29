@@ -1,0 +1,10 @@
+/.venv*/
+/runs/
+/logs/
+/data/countdown.json
+__pycache__/
+*.py[cod]
+.ruff_cache/
+*.tmp
+slurm-*.out
+/.venv-dev/

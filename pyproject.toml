@@ -1,0 +1,17 @@
+[project]
+name = "logit-psv"
+version = "1.0.0"
+description = "Logit Perturb-Select-Vote (logit PSV) on language models"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.setuptools]
+packages = ["logit_psv"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+extend-exclude = [".venv", "data", "runs", "logs"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
