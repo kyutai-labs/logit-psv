@@ -13,8 +13,7 @@
 <sup>4</sup>UC Berkeley · <sup>5</sup>Google DeepMind<br>
 <sup>*</sup>Work done while at Kyutai.
 
-<!-- TODO: once the paper is on arXiv, link this badge to it and put the ID in place of coming_soon -->
-![arXiv: coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
+[![arXiv 2610.40649](https://img.shields.io/badge/arXiv-2610.40649-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.40649)
 [![Blog post on kyutai.org](https://img.shields.io/badge/Blog-kyutai.org-1D1D1B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xNyAwIDc2IDc4Ij48cGF0aCBkPSJNMzcuMTAxOSAwLjA0MTgwOTFDNDAuMjMxOSAwLjA0MTgwOTEgNDIuMzA2MyAzLjI4NzkxIDQwLjk5MTQgNi4xMjg0MUw5LjE4MDczIDc0Ljg0NjRDOC40NzkxMyA3Ni4zNjE5IDYuOTYxMjMgNzcuMzMxOSA1LjI5MTIzIDc3LjMzMTlDMi4xNjEyMyA3Ny4zMzE5IDAuMDg2ODI1NCA3NC4wODU4IDEuNDAxNzMgNzEuMjQ1M0wzMy4yMTI0IDIuNTI3MzFDMzMuOTE0IDEuMDExODEgMzUuNDMxOSAwLjA0MTgwOTEgMzcuMTAxOSAwLjA0MTgwOTFaIiBmaWxsPSIjMzlGMkFFIi8%2BPC9zdmc%2B)](https://kyutai.org/logit-psv)
 
 </div>
